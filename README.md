@@ -1,4 +1,4 @@
-#TURN TO RAW VIEW
+#TURN TO RAW FOR BETTER VIEW
 # Machine-Learning-Project
 Flight Delays of London Heathrow Airport Prediction
 In order to have the machine trained, you need to build a dataset with the FlightRadar24_scrapper (at least 2-3 weeks data). 

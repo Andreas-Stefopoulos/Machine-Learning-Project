@@ -5,6 +5,7 @@ Data preparation is performed in the scrapper, but data cleansing and feature en
 Scrapper may have duplicate values which are removed in the machine learning script.
 Example dataset is cocluded in the repository which was used to train-test and valiate the model.
 
+
 VERSIONS USED FOR SCRAPPER:
 jupyter core     : 4.6.3
 jupyter-notebook : 6.1.1

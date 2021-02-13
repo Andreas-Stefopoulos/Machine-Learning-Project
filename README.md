@@ -8,19 +8,19 @@ Example dataset is cocluded in the repository which was used to train-test and v
 
 
 VERSIONS USED FOR SCRAPPER:
-jupyter core     : 4.6.3
-jupyter-notebook : 6.1.1
-qtconsole        : 4.7.7
-ipython          : 7.18.1
-ipykernel        : 5.3.4
-jupyter client   : 6.1.6
-jupyter lab      : 2.2.6
-nbconvert        : 6.0.6
-ipywidgets       : 7.5.1
-nbformat         : 5.0.7
-traitlets        : 4.3.3
-Python           : 3.8.5
-Pandas           : 1.1.1
-Requests         : 2.24.0
+* jupyter core     : 4.6.3
+* jupyter-notebook : 6.1.1
+* qtconsole        : 4.7.7
+* ipython          : 7.18.1
+* ipykernel        : 5.3.4
+* jupyter client   : 6.1.6
+* jupyter lab      : 2.2.6
+* nbconvert        : 6.0.6
+* ipywidgets       : 7.5.1
+* nbformat         : 5.0.7
+* traitlets        : 4.3.3
+* Python           : 3.8.5
+* Pandas           : 1.1.1
+* Requests         : 2.24.0
 
 files: [FlightRadar24_scrapper](https://nbviewer.jupyter.org/github/stefand-ml/Machine-Learning-Project/blob/main/FlightRadar24_scrapper.ipynb)

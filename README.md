@@ -9,7 +9,6 @@ Example dataset is cocluded in the repository which was used to train-test and v
 Libraries used for FlightRadar24_scrapper.ipynb and London_Heathrow_Dep_Delays.ipynb :
 * numpy          : 1.19.2
 * pandas         : 1.1.1
-* tensorflow     : 2.0.0
 * tensorboard    : 2.0.0
 * seaborn        : 0.11.0
 * matplotlib     : 3.3.2

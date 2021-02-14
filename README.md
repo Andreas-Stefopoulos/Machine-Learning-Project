@@ -17,7 +17,7 @@ Libraries used for FlightRadar24_scrapper.ipynb and London_Heathrow_Dep_Delays.i
 * plotly         : 4.12.0
 * FreeProxy      : 1.0.2
 * sklearn        : 0.23.2
-* Python Version :3.7.1
+* Python Version : 3.7.1
 
 Files: 
 * [FlightRadar24_scrapper](https://nbviewer.jupyter.org/github/stefand-ml/Machine-Learning-Project/blob/main/FlightRadar24_scrapper.ipynb)

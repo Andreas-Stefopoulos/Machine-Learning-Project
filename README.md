@@ -6,7 +6,7 @@ Data preparation is performed in the scrapper, but data cleansing and feature en
 Scrapper may have duplicate values which are removed in the machine learning script.
 Example dataset is included in the repository which was used to train-test and validate the model.
 
-London_Heathrow_Dep_Delays.ipynb is the main file of machine learning, where i trained and tested various models in order to choose the best fitted one. You may read Project_Information.pdf for more detailed information.
+London_Heathrow_Dep_Delays.ipynb is the main file of machine learning, where i trained and tested various models in order to choose the best fitted one. You may read Presentation.pdf for more detailed information.
 
 Libraries used for FlightRadar24_scrapper.ipynb and London_Heathrow_Dep_Delays.ipynb :
 * numpy          : 1.19.2
